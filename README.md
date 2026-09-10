@@ -1,2 +1,6 @@
 # na-dat-streaming-realtime-scorer-webapp
-data-and-analytics / critical / na
+
+Team: **data-and-analytics**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
